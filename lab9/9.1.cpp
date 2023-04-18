@@ -1,3 +1,8 @@
+/*
+Form a single-linked list consisting of structures containing information:
+the student's last name and 4 grades. Sort the list in ascending order (by last name).
+ Output the resulting list.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>

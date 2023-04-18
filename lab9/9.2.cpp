@@ -1,3 +1,8 @@
+/*
+To form a two-linked list consisting of structures containing information:
+the student's last name and 4 grades. Find and remove from the list of students
+who have at least one unsatisfactory grade. Display a list before and after deleting records.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

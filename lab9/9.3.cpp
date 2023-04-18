@@ -1,3 +1,8 @@
+/*
+Form a binary tree consisting of structures containing information:
+the student's last name and 4 grades. Print the surnames of students
+ in ascending and descending order. Find a student by the given last name.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
